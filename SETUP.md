@@ -175,4 +175,8 @@ astro dev run airflow dags show weather_etl_pipeline
 - Keep the `requirements.txt` updated with any new dependencies
 - The weather ETL pipeline runs daily by default
 - Database connections are managed through Airflow's connection interface
-- Proper error handling and resource cleanup are implemented in the DAG 
+- Proper error handling and resource cleanup are implemented in the DAG
+
+## References
+
+- Weather ETL Pipeline Implementation: [@https://youtu.be/Y_vQyMljDsE](https://youtu.be/Y_vQyMljDsE) 
